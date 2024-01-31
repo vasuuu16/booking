@@ -1,2 +1,2 @@
 # booking
-This is a roombooking website
+This is a booking website
